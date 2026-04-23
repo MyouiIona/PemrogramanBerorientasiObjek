@@ -127,4 +127,4 @@ Proyek ini adalah tugas akademik dan dapat digunakan untuk keperluan pendidikan.
 
 ---
 
-**Terakhir diupdate:** April 2026
+**Terakhir diupdate:** 23 april 2026
